@@ -54,7 +54,20 @@ The simulation includes:
 | `Point` | Represents coordinates for truck movement |
 
 ---
-![Simulation Screenshot 1](https://github.com/user-attachments/assets/ee876923-900d-4e13-a8bc-feddf8542108)
-![Simulation Screenshot 2](https://github.com/user-attachments/assets/689c38c7-27f3-41b2-80b1-61838c7e71d9)
-![Simulation Screenshot 3](https://github.com/user-attachments/assets/6b16843f-04c8-48f5-8855-8f4feb76ceed)
+## 🖼️ Simulation Gallery
+
+<p align="center">
+  <img src="assets/guu1" width="700"><br>
+  <em>Main system initialization interface</em>
+</p>
+
+<p align="center">
+  <img src="assets/gui2" width="700"><br>
+  <em>Package tracking window (real-time view)</em>
+</p>
+
+<p align="center">
+  <img src="assets/gui3" width="700"><br>
+  <em>Package data table showing delivery statuses</em>
+</p>
 
